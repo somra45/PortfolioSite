@@ -1,4 +1,34 @@
+body,html {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
 .full-info-div {
-    width: 100%;
-    height: fit-content;
+    position: fixed;
+    width: 100vw;
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+.info-div {
+    width: 80%;
+    height: 39vh;
+    margin: 20vh 10vw;
+    border: 2px solid rgba( 220, 220, 220, 0.6);
+    box-shadow: 0 0 12px rgba(0,0,0,0.4);
+    border-radius: 12px;
+    background-color:  hsl(184, 87%, 94%);
+}
+
+.profile-pic {
+    height: 20vh;
+    width: 9vw;
+    margin: 19px;
+}
+
+.info-header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: black;
+    margin: 10px;
 }

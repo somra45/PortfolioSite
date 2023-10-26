@@ -5,8 +5,9 @@ const InfoPage = () => {
         <> 
         <div className="full-info-div">
             <div className='info-div'>
+                <h1 className='info-header'>Meet Harvinder Somra</h1>
                 <div className='profile-pic-div'>
-                    <img >
+                    <img className='profile-pic' src='./assets/Harvey.png'>
                     </img>
                 </div>
             </div>
