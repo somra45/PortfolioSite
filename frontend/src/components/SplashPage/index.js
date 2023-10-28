@@ -7,7 +7,7 @@ const SplashPage = () => {
             <div id="main">
                     <header id="header">
                         <h1>Harvinder Somra</h1>
-                        <p>Full Stack Software Engineer &nbsp;&bull;&nbsp; Adventurer &nbsp;&bull;&nbsp; Get to know me</p>
+                        <p> Hi, I'm Harvey, a Full Stack Software Engineer &nbsp;&bull;&nbsp; Adventurer &nbsp;&bull;&nbsp; Get to know me and my work !</p>
                         <nav>
                             <ul>
                                 <li><a href="https://www.linkedin.com/in/harvinder-somra-39ba536a/" target='_blank' class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
